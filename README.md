@@ -1,7 +1,7 @@
 👋
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> Notion
-tjdgml10778@gmail.com
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats
@@ -53,8 +53,10 @@ tjdgml10778@gmail.com
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tjdgml10778&style=for-the-badge&color=00FF41)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjdgml10778&show_icons=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seonghee-yang&layout=compact&theme=chartreuse-dark)
+<p align="center">
+  <img src="https://github-readme-stats-phi-tan-92.vercel.app/api?username=seonghee-yang&show_icons=true" />
+  <img src="https://github-readme-stats-phi-tan-92.vercel.app/api/top-langs/?username=seonghee-yang&layout=compact" />
+</p>
 
 <!--
 **Seonghee-yang/Seonghee-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
