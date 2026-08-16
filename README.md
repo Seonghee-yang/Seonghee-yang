@@ -1,4 +1,4 @@
-## Hi there 👋
+👋
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> Notion
 tjdgml10778@gmail.com
@@ -54,7 +54,7 @@ tjdgml10778@gmail.com
 ![Visitor Count](https://komarev.com/ghpvc/?username=tjdgml10778&style=for-the-badge&color=00FF41)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjdgml10778&show_icons=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgml10778&layout=compact&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seonghee-yang&layout=compact&theme=chartreuse-dark)
 
 <!--
 **Seonghee-yang/Seonghee-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
