@@ -1,21 +1,24 @@
 👋
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> Notion
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Seonghee's%20GitHub&fontSize=42" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<div align=center>
+<h3>안녕하세요! 양성희입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
 
-## 📊 GitHub Stats
 
+  
+<h4 align="center">✨ Tech Stack ✨</h4>
 
+![js](https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white)
+![js](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/RStudio-75AADB?&style=flat&logo=rstudioide&logoColor=white)
+![js](https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
----
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-</div>
+![js](https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white)
+![js](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
+![js](https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black)
+
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
