@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Seonghee's%20GitHub&fontSize=42&fontColor=1C3129" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EFE7DA&height=150&section=header&text=Seonghee's%20GitHub&fontSize=42&fontColor=1C3129" />
 
 <div align=center>
 <h3>안녕하세요! 양성희입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
