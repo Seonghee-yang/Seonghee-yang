@@ -1,5 +1,3 @@
-👋
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=150&section=header&text=Seonghee's%20GitHub&fontSize=42&fontColor=1C3129" />
 
 <div align=center>
